@@ -79,6 +79,7 @@ next()
 df_var.to_csv('rank_var_test.csv')  #保存一下结果表格
 
 
+###j
 
 
 
